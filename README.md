@@ -1,4 +1,4 @@
-# :nerd_face: recyclerviewlistapp
+# :nerd_face: Recyclerview List App
 
 :iphone: A simple list of contacts app  using RecyclerView 
 
